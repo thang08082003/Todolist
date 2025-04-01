@@ -1,0 +1,1 @@
+ D:\\intern-nguyen-van-thang\\todolist\\.dart_tool\\flutter_build\\25f45aaa6b31e0d638c1497359c658b5\\native_assets.yaml: 

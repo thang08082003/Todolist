@@ -1,0 +1,5 @@
+<resources>
+    <string name="appwidget_text">No Tasks</string>
+    <string name="appwidget_description">This is a description of your widget</string>
+
+</resources>
